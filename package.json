@@ -1,12 +1,12 @@
 {
   "name": "ejs-challenge",
   "version": "1.0.0",
-  "description": "",
+  "description": "Blog App",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Tiago Silva",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
