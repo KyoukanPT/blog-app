@@ -26,9 +26,13 @@
 5 - Open a new terminal tab and run the following command: <strong>mongod</strong><br>
 6 - After you successfully connect to MongoDB (Step 5), open another new terminal tab and run the following command: <strong>mongo</strong><br><br>
 
+<hr>
+
 <h3>MongoDB Documentation</h3>
 - Installation instructions - <strong> https://docs.mongodb.com/manual/administration/install-community/ </strong> <br>
 - How to use mongo shell to query and manipulate the data in your database - <strong>https://docs.mongodb.com/manual/crud/</strong><br><br>
+
+<hr>
 
 <h3>How to use MongoDB Cloud Database (MongoDB Atlas)</h3>
 - Line 11 (app.js) - Replace <strong><"ADMIN"></strong> and <strong><"PASSWORD"></strong> with your Atlas credentials <br>
