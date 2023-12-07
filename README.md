@@ -8,15 +8,21 @@
 
 <hr>
 
+<h3>Node Installation</h3>
+ 
+ 2 - Download and install <a href="https://nodejs.org/en/download"> Node.js </a> <br> 
+
+ <hr>
+
 <h3>Project Folder Directory (Terminal)</h3>
 
-2 - npm install<br>
-3 - node app.js
+3 - npm install<br>
+4 - node app.js
 
 <hr>
 
 <h3>How to use this App locally (In Your Computer)</h3>
-4 - Replace the code in line 11 (app.js) with the following: <strong>mongoose.connect('mongodb://localhost:27017/yourDatabaseName', {useNewUrlParser: true, useUnifiedTopology: true});<br></strong>
+4 - Replace the code in line 27 (app.js) with the following: <strong>mongoose.connect('mongodb://localhost:27017/yourDatabaseName', {useNewUrlParser: true, useUnifiedTopology: true});<br></strong>
 5 - Open a new terminal tab and run the following command: <strong>mongod</strong><br>
 6 - After you successfully connect to MongoDB (Step 5), open another new terminal tab and run the following command: <strong>mongo</strong><br><br>
 
