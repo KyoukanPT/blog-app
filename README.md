@@ -22,7 +22,7 @@
 <hr>
 
 <h3>How to use this App locally (In Your Computer)</h3>
-4 - Replace the code in line 27 (app.js) with the following: <strong>mongoose.connect('mongodb://localhost:27017/yourDatabaseName', {useNewUrlParser: true, useUnifiedTopology: true});<br></strong>
+4 - Replace the code in line 11 (app.js) with the following: <strong>mongoose.connect('mongodb://localhost:27017/yourDatabaseName', {useNewUrlParser: true, useUnifiedTopology: true});<br></strong>
 5 - Open a new terminal tab and run the following command: <strong>mongod</strong><br>
 6 - After you successfully connect to MongoDB (Step 5), open another new terminal tab and run the following command: <strong>mongo</strong><br><br>
 
@@ -41,10 +41,5 @@
 
 <hr>
 
-<h3>Browser (After step 2 --> step 6 + having MongoDB installed)</h3>
+<h3>Browser (After step 2 --> step 6)</h3>
 7 - <a href="http://localhost:3000/">http://localhost:3000/</a>
-
-<hr>
-
-<h3>Live App</h3>
-https://kyoukanpt-blog-app.herokuapp.com/
