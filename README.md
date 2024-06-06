@@ -17,14 +17,19 @@
 <h3>Project Folder Directory (Terminal)</h3>
 
 3 - npm install<br>
-4 - node app.js
+4 - npm install <a href="https://expressjs.com/en/starter/installing.html"> express </a> <br>
+5 - npm install <a href="https://ejs.co/"> EJS </a> <br>
+6 - npm install <a href="https://www.npmjs.com/package/body-parser"> Body Parser </a> <br>
+7 - npm install <a href="https://www.npmjs.com/package/mongoose"> Mongoose </a> <br>
+8 - npm install <a href="https://lodash.com/"> Lodash </a> <br>
+9 - node app.js
 
 <hr>
 
 <h3>How to use this App locally (In Your Computer)</h3>
-4 - Replace the code in line 11 (app.js) with the following: <strong>mongoose.connect('mongodb://localhost:27017/yourDatabaseName', {useNewUrlParser: true, useUnifiedTopology: true});<br></strong>
-5 - Open a new terminal tab and run the following command: <strong>mongod</strong><br>
-6 - After you successfully connect to MongoDB (Step 5), open another new terminal tab and run the following command: <strong>mongo</strong><br><br>
+10 - Replace the code in line 11 (app.js) with the following: <strong>mongoose.connect('mongodb://localhost:27017/yourDatabaseName', {useNewUrlParser: true, useUnifiedTopology: true});<br></strong>
+11 - Open a new terminal tab and run the following command: <strong>mongod</strong><br>
+12 - After you successfully connect to MongoDB (Step 5), open another new terminal tab and run the following command: <strong>mongo</strong><br><br>
 
 <hr>
 
@@ -41,5 +46,5 @@
 
 <hr>
 
-<h3>Browser (After Step 6)</h3>
+<h3>Browser (After Step 9)</h3>
 7 - <a href="http://localhost:3000/">http://localhost:3000/</a>
