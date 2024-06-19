@@ -47,4 +47,9 @@
 <hr>
 
 <h3>Browser</h3>
-After running the app with Node, go to <a href="http://localhost:3000/">Localhost</a>.
+After running the app with Node, go to <a href="http://localhost:3000/">Localhost</a>. <br>
+- The user should go to "Compose", that is located on the navbar.
+- Once on the "Compose" page, the user should compose its blog post and press the submit button.
+- Every submitted post will be rendered on the home page.
+- To avoid cluttering the home page with extensive blog posts, every post is truncated on the home page and can be fully read, in another page, by pressing the "Read More" hyperlink.
+
