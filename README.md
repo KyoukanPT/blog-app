@@ -27,9 +27,9 @@
 <hr>
 
 <h3>How to use this App locally (In Your Computer)</h3>
-10 - Replace the code in line 11 (app.js) with the following: <strong>mongoose.connect('mongodb://localhost:27017/yourDatabaseName', {useNewUrlParser: true, useUnifiedTopology: true});<br></strong>
-11 - Open a new terminal tab and run the following command: <strong>mongod</strong><br>
-12 - After you successfully connect to MongoDB, open another new terminal tab and run the following command: <strong>mongo</strong><br><br>
+- Replace the code in line 11 (app.js) with the following: <strong>mongoose.connect('mongodb://localhost:27017/yourDatabaseName', {useNewUrlParser: true, useUnifiedTopology: true});<br></strong>
+- Open a new terminal tab and run the following command: <strong>mongod</strong><br>
+- After you successfully connect to MongoDB, open another new terminal tab and run the following command: <strong>mongo</strong><br><br>
 
 <hr>
 
@@ -46,5 +46,5 @@
 
 <hr>
 
-<h3>Browser (After Step 12)</h3>
-7 - <a href="http://localhost:3000/">http://localhost:3000/</a>
+<h3>Interact with the App in the Browser</h3>
+After running the app with Node, go to <a href="http://localhost:3000/">Localhost</a>.
