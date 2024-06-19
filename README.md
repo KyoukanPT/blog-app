@@ -46,5 +46,5 @@
 
 <hr>
 
-<h3>Interact with the App in the Browser</h3>
+<h3>Browser</h3>
 After running the app with Node, go to <a href="http://localhost:3000/">Localhost</a>.
