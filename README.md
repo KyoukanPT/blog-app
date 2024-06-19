@@ -22,7 +22,7 @@
 6 - npm install <a href="https://www.npmjs.com/package/body-parser"> Body Parser </a> <br>
 7 - npm install <a href="https://www.npmjs.com/package/mongoose"> Mongoose </a> <br>
 8 - npm install <a href="https://lodash.com/"> Lodash </a> <br>
-9 - node app.js
+9 - node app.js <br>
 
 <hr>
 
