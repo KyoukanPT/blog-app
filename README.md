@@ -46,12 +46,9 @@
 
 <hr>
 
-<h3>How to Use the App?</h3>
-After running the app with Node, go to <a href="http://localhost:3000/">Localhost</a>. <br>
-
-<h5>Instructions:</h5>
-- The user should go to "Compose", that is located on the navbar. <br>
-- Once on the "Compose" page, the user should compose its blog post and press the submit button. <br>
-- Every submitted post will be rendered on the home page.<br>
-- To avoid cluttering the home page with extensive blog posts, every post is truncated on the home page and can be fully read, in another page, by pressing the "Read More" hyperlink. <br>
-
+<h3>How to use the App?</h3>
+<p> - After running the app with Node, go to <a href="http://localhost:3000/">Localhost</a>.</p>
+<p> - The user should go to "Compose", that is located on the navbar.</p>
+<p> - Once on the "Compose" page, the user should compose its blog post and press the submit button.</p>
+<p> - Every submitted post will be rendered on the home page.</p>
+<p> - To avoid cluttering the home page with extensive blog posts, every post is truncated on the home page and can be fully read, in another page, by pressing the "Read More" hyperlink.</p>
